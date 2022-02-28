@@ -1,0 +1,24 @@
+#cliffs header{
+    background: no-repeat lightgray url(images/forest_cliff.jpeg);
+    background-size: 1500px;
+}
+h1{
+    color:#9ed034;
+    font-family: sans-serif;
+}
+p{
+    font-family: sans-serif;
+}
+main #cliff-album #photos img{
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 5px 10px 5px ;
+}
+main #cliff-album #photos li{
+    display: inline;
+}
+ul{
+    list-style-type: none;
+}
